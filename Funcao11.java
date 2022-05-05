@@ -1,8 +1,3 @@
-/*
-Atividade 3
-    Faça uma função recursiva que verifique se uma palavra (String) é palíndromo
-        Exemplo de palíndromos: arara, aba, abcba
- */
 package funcao11;
 import java.util.Scanner;
 public class Funcao11 {
